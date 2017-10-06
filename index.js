@@ -40,7 +40,7 @@ prependKitten("Arnold");
 //   return slice(-1);
 // }
 // removeLastKitten();
-// 
+//
 // function removeFirstKitten(name){
 //   return slice(1);
 // }
