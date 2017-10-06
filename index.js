@@ -35,12 +35,12 @@ function prependKitten(name){
 }
 prependKitten("Arnold");
 
-function removeLastKitten(name){
-  var a = slice(-1);
-  return slice(-1);
-}
-removeLastKitten();
-
+// function removeLastKitten(name){
+//   var a = slice(-1);
+//   return slice(-1);
+// }
+// removeLastKitten();
+// 
 // function removeFirstKitten(name){
 //   return slice(1);
 // }
