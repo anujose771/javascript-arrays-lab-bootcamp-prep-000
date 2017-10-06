@@ -36,6 +36,7 @@ function prependKitten(name){
 prependKitten("Arnold");
 
 function removeLastKitten(name){
+  var a = slice(-1);
   return slice(-1);
 }
 removeLastKitten();
